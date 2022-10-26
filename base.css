@@ -27,6 +27,7 @@ h6,
     background-color: rgba(55, 71, 79, 0.5);
     border-radius: 50% 20% / 10% 40%;
     color: #E8E9F3;
+    transition: all 0.2s;
 }
 
 html {
@@ -51,6 +52,12 @@ body {
     background-color: #37474F;
     height: 100vh;
     color: #E8E9F3;
+}
+
+.hotels-blurb {
+    background-color: #E8E9F3;
+    color: #37474F;
+    border-radius: 50% 20% / 10% 40%;
 }
 
 .bg-taniti-accent {
