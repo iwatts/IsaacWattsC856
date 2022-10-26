@@ -39,6 +39,10 @@ body {
     color: #A6A6A8;
 }
 
+a.text-decoration-none:hover {
+    text-decoration: none;
+}
+
 
 .light-text {
     color: #E8E9F3;
@@ -61,7 +65,8 @@ body {
 }
 
 .bg-taniti-accent {
-    background-color: #B1E5F2;
+    background: rgb(255, 240, 98);
+    background: linear-gradient(180deg, rgba(255, 240, 98, 1) 0%, rgba(177, 229, 242, 1) 25%, rgba(177, 229, 242, 1) 75%, rgba(55, 71, 79, 0.5494572829131652) 100%);
 }
 
 .jumbotron-image {
